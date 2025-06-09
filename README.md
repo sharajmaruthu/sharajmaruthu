@@ -19,7 +19,7 @@
 ---
 
 ## 🎯 2025–2026 Goals
-- Get a life ☘️, touch grass 🌱, socialize more 🌍 — and still code like crazy 💻  
+- Touch grass 🌱, socialize more 🌍 — and still code like crazy 💻  
 - Launch 2 impactful, student-focused products  
 - Solve 500+ LeetCode problems *without rage-quitting*
 
@@ -34,7 +34,7 @@ I'm faster than an F1 pit crew — at replying, debugging, and sometimes even pa
 - Clean UI & clean code (both give peace of mind)
 - Dark mode everything 🌑  
 - F1 race weekends — I *breathe* Formula 1  
-- Lewis Hamilton. Always has been. **LH44 supremacy 🏆🐐**  
+- Lewis Hamilton. Always has been. ** 7 x🏆🐐**  
 - That one commit that fixes everything  
 - Late-night coding with music and silence
 
