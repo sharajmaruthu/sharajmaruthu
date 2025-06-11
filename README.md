@@ -30,30 +30,25 @@ I'm faster than an F1 pit crew — at replying, debugging, and sometimes even pa
 
 ---
 
-## ❤️ Things I Love
-- Clean UI & clean code (both give peace of mind)
-- Dark mode everything 🌑  
-- F1 race weekends — I *breathe* Formula 1  
-- Lewis Hamilton. Always has been. ** 7 x🏆🐐**  
+## ❤️ Things I Love  
+- F1 race weekends — I *breathe* Formula 1    
 - That one commit that fixes everything  
 - Late-night coding with music and silence
 
 ---
 
 ## ❌ Things I Hate
-- Merge conflicts (nightmare fuel)  
-- JavaScript errors that say "undefined" and then *disappear*  
 - Slow internet during `npm install`  
 - When LeetCode says "Wrong Answer" and you're 100% sure it’s right  
-- **Team Java in my college — no offense, but I’m built different 😏**
+- **Team Java in my college — no offense😏**
 
 ---
 
 ## 📫 Let’s Connect
-- [LinkedIn](https://www.linkedin.com/in/sharajmm/)
-- [Portfolio](https://sharaj.vercel.app/)
-- [LeetCode](https://leetcode.com/u/Sharajmm/)
+- [My LinkedIn profile](https://www.linkedin.com/in/sharajmm/)
+- [My Portfolio website](https://sharaj.vercel.app/)
+- [My LeetCode profile](https://leetcode.com/u/Sharajmm/)
 
 ---
 
-## Visit my some public repository below 😺🫣
+## Visit some of my public repo below 😺🫣
