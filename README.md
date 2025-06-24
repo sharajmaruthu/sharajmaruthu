@@ -6,15 +6,13 @@ Problem Solver by day, Debugging Philosopher by night
 ---
 
 ## What I'm Building Right Now ⌨️
-- **Hiremate Assistant** – An AI-powered mock interview platform to help you prep like a pro  
-- **Learnify OS** – A productivity OS for students who love studying (or at least pretending to)  
 - **DSA Marathon** – On a mission to solve 200+ LeetCode problems in 2 months.
-
+- **Improving Tech SKills** - On a journey to sharpen my tech skills 
 ---
 
 ## My Skills 👨🏻‍💻
 `JavaScript` • `React` • `Node.js` • `Express` • `MongoDB` • `Firebase`  
-`Java` • `Python` • `Azure` • `AWS` • `Git & GitHub` • `REST APIs` • `Ai` • `MS-office tools` • `Docker` • `DSA`
+• `Python` • `Azure` • `AWS` • `Git & GitHub` • `REST APIs` • `Ai` • `MS-office tools` • `Docker` • `DSA`
 
 ---
 
