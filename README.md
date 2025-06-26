@@ -2,25 +2,21 @@
 
 Full-Stack MERN Developer | Cloud & AI Enthusiast  
 Problem Solver by day, Debugging Philosopher by night  
-
----
-
-## What I'm Building Right Now ⌨️
-- **DSA Marathon** – On a mission to solve 200+ LeetCode problems in 2 months.
-- **Improving Tech SKills** - On a journey to sharpen my tech skills 
+ 
 ---
 
 ## My Skills 👨🏻‍💻
-`JavaScript` • `React` • `Node.js` • `Express` • `MongoDB` • `Firebase`  
-• `Python` • `Azure` • `AWS` • `Git & GitHub` • `REST APIs` • `Ai` • `MS-office tools` • `Docker` • `DSA`
+• `JavaScript` • `React` • `Node.js` • `Express` • `MongoDB` • `Python`  • `DSA`
+• `Azure` • `AWS` • `Firebase`
+• `Git & GitHub` • `REST APIs` • `Ai` • `MS-office tools` • `Docker` 
+• `Leadership` • `Team work` • `Problem solving` • `Time management` • `Adaptability` 
 
 ---
 
 ## 2025–2026 Goals 🎯
 - Touch grass 🌱, socialize more — and still code like Pro.
-- Launch 2 - 4 impactful, Learning and life-focused products  
-- Solve 500+ LeetCode problems *without rage-quitting*
-
+- Launch 2 - 4 impactful, Learning and life-focused products *without rage-quitting*
+- 
 ---
 
 ## Fun Fact 🏎️
@@ -37,16 +33,15 @@ I'm faster than an F1 pit crew — at replying, debugging, and sometimes even pa
 ---
 
 ## Things I Hate 💀
-- Slow internet during `npm install`  
+- Slow internet during `npm install`
 - When LeetCode says "Wrong Answer" and you're 100% sure it’s right  
-- **Team Java in my college — no offense😏**
 
 ---
 
 ## Let’s Connect 📞
-- [My LinkedIn profile](https://www.linkedin.com/in/sharajmm/)
-- [My Portfolio website](https://sharaj.vercel.app/)
-- [My LeetCode profile](https://leetcode.com/u/Sharajmm/)
+- [My LinkedIn](https://www.linkedin.com/in/sharajmm/)
+- [My website](https://sharaj.ME/)
+- [My LeetCode](https://leetcode.com/u/Sharajmm/)
 
 ---
 
