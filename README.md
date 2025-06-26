@@ -6,7 +6,7 @@ Problem Solver by day, Debugging Philosopher by night
 ---
 
 ## My Skills 👨🏻‍💻
-• `JavaScript` • `React` • `Node.js` • `Express` • `MongoDB` • `Python`  • `DSA`
+`JavaScript` • `React` • `Node.js` • `Express` • `MongoDB` • `Python`  • `DSA`
 • `Azure` • `AWS` • `Firebase`
 • `Git & GitHub` • `REST APIs` • `Ai` • `MS-office tools` • `Docker` 
 • `Leadership` • `Team work` • `Problem solving` • `Time management` • `Adaptability` 
