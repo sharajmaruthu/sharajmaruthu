@@ -16,7 +16,7 @@ Problem Solver by day, Debugging Philosopher by night
 ## 2025–2026 Goals 🎯
 - Touch grass 🌱, socialize more — and still code like Pro.
 - Launch 2 - 4 impactful, Learning and life-focused products *without rage-quitting*
-- 
+  
 ---
 
 ## Fun Fact 🏎️
