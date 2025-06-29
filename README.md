@@ -41,7 +41,7 @@ I'm faster than an F1 pit crew — at replying, debugging, and sometimes even pa
 ## Let’s Connect 📞
 - [My LinkedIn](https://www.linkedin.com/in/sharajmm/)
 - [My website](https://sharaj.ME/)
-- [My LeetCode](https://leetcode.com/u/Sharajmm/)
+- [My LeetCode](https://leetcode.com/u/Aizen2006/)
 
 ---
 
